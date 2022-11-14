@@ -1,2 +1,2 @@
-# Bootcamp students
-## Prework Study guide
+Bootcamp students
+Prework Study guide
